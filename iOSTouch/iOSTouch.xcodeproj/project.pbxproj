@@ -14,7 +14,10 @@
 		1503D5841AFB7DFA00C740EB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1503D5831AFB7DFA00C740EB /* Images.xcassets */; };
 		1503D5871AFB7DFA00C740EB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1503D5851AFB7DFA00C740EB /* LaunchScreen.xib */; };
 		1503D5931AFB7DFA00C740EB /* iOSTouchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1503D5921AFB7DFA00C740EB /* iOSTouchTests.m */; };
+<<<<<<< HEAD
 		8A81AB7B9990CA220ADB6F28 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 02EE93FBDDDA9DE727205DB3 /* libPods.a */; };
+=======
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,7 +31,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		02EE93FBDDDA9DE727205DB3 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+=======
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 		1503D5731AFB7DFA00C740EB /* iOSTouch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSTouch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1503D5771AFB7DFA00C740EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1503D5781AFB7DFA00C740EB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -42,8 +48,11 @@
 		1503D58C1AFB7DFA00C740EB /* iOSTouchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSTouchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1503D5911AFB7DFA00C740EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1503D5921AFB7DFA00C740EB /* iOSTouchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSTouchTests.m; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		8A2D28D4EAA36D65EC9F4CA3 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		E79B09C2D90D62ABA4E03FDD /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+=======
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +60,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
 				8A81AB7B9990CA220ADB6F28 /* libPods.a in Frameworks */,
+=======
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -71,8 +83,11 @@
 				1503D5751AFB7DFA00C740EB /* iOSTouch */,
 				1503D58F1AFB7DFA00C740EB /* iOSTouchTests */,
 				1503D5741AFB7DFA00C740EB /* Products */,
+<<<<<<< HEAD
 				BF9D97641D45E76DF242D09C /* Pods */,
 				2DBEBC87DE7BAFCB1350A6D8 /* Frameworks */,
+=======
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 			);
 			sourceTree = "<group>";
 		};
@@ -126,6 +141,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		2DBEBC87DE7BAFCB1350A6D8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -143,6 +159,8 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+=======
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -150,11 +168,17 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1503D5961AFB7DFA00C740EB /* Build configuration list for PBXNativeTarget "iOSTouch" */;
 			buildPhases = (
+<<<<<<< HEAD
 				A398C29D1DBB27F80FD1FE86 /* Check Pods Manifest.lock */,
 				1503D56F1AFB7DFA00C740EB /* Sources */,
 				1503D5701AFB7DFA00C740EB /* Frameworks */,
 				1503D5711AFB7DFA00C740EB /* Resources */,
 				A32267006B938F8A0883CBF5 /* Copy Pods Resources */,
+=======
+				1503D56F1AFB7DFA00C740EB /* Sources */,
+				1503D5701AFB7DFA00C740EB /* Frameworks */,
+				1503D5711AFB7DFA00C740EB /* Resources */,
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 			);
 			buildRules = (
 			);
@@ -240,6 +264,7 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+<<<<<<< HEAD
 /* Begin PBXShellScriptBuildPhase section */
 		A32267006B938F8A0883CBF5 /* Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -273,6 +298,8 @@
 		};
 /* End PBXShellScriptBuildPhase section */
 
+=======
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 /* Begin PBXSourcesBuildPhase section */
 		1503D56F1AFB7DFA00C740EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -358,9 +385,15 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = NO;
+=======
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -395,9 +428,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				ONLY_ACTIVE_ARCH = NO;
+=======
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -405,11 +443,17 @@
 		};
 		1503D5971AFB7DFA00C740EB /* Debug */ = {
 			isa = XCBuildConfiguration;
+<<<<<<< HEAD
 			baseConfigurationReference = 8A2D28D4EAA36D65EC9F4CA3 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = iOSTouch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+=======
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = iOSTouch/Info.plist;
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -417,11 +461,17 @@
 		};
 		1503D5981AFB7DFA00C740EB /* Release */ = {
 			isa = XCBuildConfiguration;
+<<<<<<< HEAD
 			baseConfigurationReference = E79B09C2D90D62ABA4E03FDD /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = iOSTouch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+=======
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = iOSTouch/Info.plist;
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -480,7 +530,10 @@
 				1503D5981AFB7DFA00C740EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+<<<<<<< HEAD
 			defaultConfigurationName = Release;
+=======
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 		};
 		1503D5991AFB7DFA00C740EB /* Build configuration list for PBXNativeTarget "iOSTouchTests" */ = {
 			isa = XCConfigurationList;
@@ -489,7 +542,10 @@
 				1503D59B1AFB7DFA00C740EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+<<<<<<< HEAD
 			defaultConfigurationName = Release;
+=======
+>>>>>>> bec49c214c62e22fb0e67bc5326b08c1bfa1716d
 		};
 /* End XCConfigurationList section */
 	};
